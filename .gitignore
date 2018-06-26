@@ -1,0 +1,4 @@
+.stack-work/
+cseduosu.cabal
+*~.stack-work
+*.cabal
