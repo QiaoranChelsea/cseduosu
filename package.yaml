@@ -1,10 +1,10 @@
 name:                cseduosu
 version:             0.1.0.0
-github:              "githubuser/cseduosu"
+github:              "doyougnu/cseduosu"
 license:             BSD3
-author:              "Author name here"
-maintainer:          "example@example.com"
-copyright:           "2018 Author name here"
+author:              "Qiaoran Chelsea, Alex Grejuc, Parisa Ataei, Jeffrey Young"
+maintainer:          "youngjef@oregonstate.edu"
+copyright:           "2018 Qiaoran Chelsea, Alex Grejuc, Parisa Ataei, Jeffrey Young"
 
 extra-source-files:
 - README.md
@@ -21,6 +21,8 @@ description:         Please see the README on GitHub at <https://github.com/gith
 
 dependencies:
 - base >= 4.7 && < 5
+- containers
+- mtl
 
 library:
   source-dirs: src
